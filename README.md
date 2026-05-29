@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SIGA FATEC - Sistema Integrado de Gestão Acadêmica
 
 ## 📋 Índice
@@ -627,3 +628,6 @@ Para dúvidas ou problemas:
 ---
 
 **Desenvolvido com ❤️ para os estudantes da FATEC**
+=======
+# app-fatec-cloud
+>>>>>>> f052cb07a0c8c3b40350f042f0ab0d5f1a619d79
