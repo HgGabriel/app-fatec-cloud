@@ -1,4 +1,12 @@
-<<<<<<< HEAD
+## 👥 Integrantes do Projeto
+
+* Augusto de Barros Almeida
+* Bruno Henrique Gusmão Gonçalves
+* Gabriel Mesquita
+* Hiago Gabriel Oliveira Pinto
+
+
+
 # SIGA FATEC - Sistema Integrado de Gestão Acadêmica
 
 ## 📋 Índice
